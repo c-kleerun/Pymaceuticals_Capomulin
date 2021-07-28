@@ -13,7 +13,7 @@ This project explores data from Pymaceuticals' recent study regarding the effica
   <li> Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
     
     Example of Summary Statistics:
-    ![summary_stats_capomulin](https://user-images.githubusercontent.com/71466063/127385547-5767d298-0edc-4270-a86e-35fcd12e9d41.png)
+    ![summary_stats_capomulin](/screenshots/summary_stats_capomulin.png)
 
     
 Many of the plots were created using both Panda's DataFrame.plot() and Matplotlib's pyplot for practice in using both modalities.  
