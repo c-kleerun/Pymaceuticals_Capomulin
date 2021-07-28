@@ -3,7 +3,8 @@
 This project explores data from Pymaceuticals' recent study regarding the efficacy of the drug, Capomulin, in treating squamous cell carcinoma (SCC). Tumor development was observed and measured over 45 days. The data was cleaned, removing any duplicate mouse ID data and the cleaned data was used to explore the following data: 
 
 <ul><li> Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen. </li>
-![summary_stats_capomulin (2)](https://user-images.githubusercontent.com/71466063/127383724-dd037597-e3e5-4514-83be-639697901af7.png)
+![summary_stats_capomulin (2)](https://user-images.githubusercontent.com/71466063/127384060-797a5f5c-68bf-43d6-aaf9-8df0ffcdac1b.png)
+
 
   <li> Generate a bar plot that shows the total number of measurements taken for each treatment regimen throughout the course of the study.
 ![bar_charts_capomulin (3)](https://user-images.githubusercontent.com/71466063/127383752-332201e0-c875-4663-93db-9356bbf43dfe.png)
